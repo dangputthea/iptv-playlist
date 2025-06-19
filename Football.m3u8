@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="" group-title="Quốc tế - Bóng đá",ESPN2 (US)
+https://iptv-org.github.io/channels/us/ESPN2.m3u
+
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="beIN Sports" tvg-logo="" group-title="Quốc tế - Bóng đá",beIN Sports US
+https://iptv-org.github.io/channels/us/beIN_Sports_US.m3u
+
+#EXTINF:-1 tvg-id="espn3.us" tvg-name="ESPN3" tvg-logo="" group-title="Quốc tế - Bóng đá",ESPN3 (US)
+https://iptv-org.github.io/channels/us/ESPN3.m3u
+
+#EXTINF:-1 tvg-id="foxsports.us" tvg-name="FOX Sports" tvg-logo="" group-title="Quốc tế - Bóng đá",FOX Sports (US)
+https://iptv-org.github.io/channels/us/FoxSports.m3u
+
+#EXTINF:-1 tvg-id="eurosport.gb" tvg-name="Eurosport UK" tvg-logo="" group-title="Quốc tế - Bóng đá",Eurosport UK
+https://iptv-org.github.io/channels/gb/Eurosport.m3u
+
+#EXTINF:-1 tvg-id="btsport.gb" tvg-name="BT Sport" tvg-logo="" group-title="Quốc tế - Bóng đá",BT Sport UK
+https://iptv-org.github.io/channels/gb/BTSport.m3u
+
+#EXTINF:-1 tvg-id="truesports1.th" tvg-name="True Sports 1" tvg-logo="" group-title="Thể thao Thái Lan",True Sports 1 (TH)
+https://iptv-org.github.io/channels/th/TrueSports1.m3u
+
+#EXTINF:-1 tvg-id="truesports2.th" tvg-name="True Sports 2" tvg-logo="" group-title="Thể thao Thái Lan",True Sports 2 (TH)
+https://iptv-org.github.io/channels/th/TrueSports2.m3u
+
+#EXTINF:-1 tvg-id="truesports3.th" tvg-name="True Sports 3" tvg-logo="" group-title="Thể thao Thái Lan",True Sports 3 (TH)
+https://iptv-org.github.io/channels/th/TrueSports3.m3u
+
+#EXTINF:-1 tvg-id="truesports4.th" tvg-name="True Sports 4" tvg-logo="" group-title="Thể thao Thái Lan",True Sports 4 (TH)
+https://iptv-org.github.io/channels/th/TrueSports4.m3u
+
+#EXTINF:-1 tvg-id="vn.playlist" tvg-name="Vietnam Channels" tvg-logo="" group-title="Việt Nam",Vietnam TV Playlist
+https://iptv-org.github.io/iptv/countries/vn.m3u
+
+#EXTINF:-1 tvg-id="kh.playlist" tvg-name="Cambodia Channels" tvg-logo="" group-title="Campuchia",Cambodia TV Playlist
+https://iptv-org.github.io/iptv/countries/kh.m3u
+
+#EXTINF:-1 tvg-id="th.playlist" tvg-name="Thailand Channels" tvg-logo="" group-title="Thái Lan",Thailand TV Playlist
+https://iptv-org.github.io/iptv/countries/th.m3u
